@@ -25,12 +25,8 @@ reconnaissance Bash script for subdomain enumeration and directory brute-forcing
 - **gowitness**: A tool for taking screenshots of URLs. [GitHub Repository](https://github.com/sensepost/gowitness) - Licensed under MIT License.
 - **nmap**: A network scanning tool. [Official Website](https://nmap.org/) - Licensed under GNU GPL.
 - **ffuf**: A fast web fuzzer written in Go. [GitHub Repository](https://github.com/ffuf/ffuf) - Licensed under MIT License.
-
-## License
-
-This script is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
+  
+## Installation 
 1. Clone the repository:
    git clone <https://github.com/VirajMathpati7/recon>
    cd
