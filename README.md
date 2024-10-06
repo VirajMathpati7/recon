@@ -17,3 +17,7 @@ reconnaissance Bash script for subdomain enumeration and directory brute-forcing
 
 ## Prerequisites
 - Make sure you have [Go](https://golang.org/dl/) installed for installing Go-based tools.
+
+1. Clone the repository:
+   git clone <https://github.com/VirajMathpati7/recon>
+   cd 
