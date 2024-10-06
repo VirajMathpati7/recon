@@ -17,4 +17,3 @@ reconnaissance Bash script for subdomain enumeration and directory brute-forcing
 
 ## Prerequisites
 - Make sure you have [Go](https://golang.org/dl/) installed for installing Go-based tools.
-- Install `nmap` and other dependencies if they are not already available.
