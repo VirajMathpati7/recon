@@ -17,6 +17,7 @@ reconnaissance Bash script for subdomain enumeration and directory brute-forcing
 
 ## Prerequisites
 - Make sure you have [Go](https://golang.org/dl/) installed for installing Go-based tools.
+- use your own wordlist with as per you preference.
 
 ## Tools used
 - **subfinder**: A subdomain discovery tool. [GitHub Repository](https://github.com/projectdiscovery/subfinder) - Licensed under MIT License.
@@ -27,9 +28,10 @@ reconnaissance Bash script for subdomain enumeration and directory brute-forcing
 - **ffuf**: A fast web fuzzer written in Go. [GitHub Repository](https://github.com/ffuf/ffuf) - Licensed under MIT License.
   
 ## Installation 
-1. Clone the repository:
-   git clone <https://github.com/VirajMathpati7/recon>
-   cd
+--> Clone the repository:
+    git clone <https://github.com/VirajMathpati7/recon> .
+    cd recon.
+    chmod +x ./recon.sh
 
 ## usage 
 ![2024-10-06 19_16_31-kali-linux-2024 3-vmware-amd64 - VMware Workstation](https://github.com/user-attachments/assets/f9c9e23c-c834-4d5f-a89a-317d6ce71d88)
